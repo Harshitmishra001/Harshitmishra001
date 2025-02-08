@@ -2,7 +2,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture></h1>
-A 1st year Student Trying to Improve in Coding |<br>Content Writer✍🏻 | <br>Aspiring ML Engineer🏢 | <br>Game Developer🎮|<br>Web Develpoment🕸️(streamlit)|
+A 2nd year Student Trying to Improve in Coding |<br>Content Writer✍🏻 | <br>Aspiring ML Engineer🏢 | <br>Game Developer🎮|<br>Web Develpoment🕸️(streamlit)|
 
 
 <h1>Socials<picture>
