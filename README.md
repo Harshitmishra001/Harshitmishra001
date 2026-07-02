@@ -6,8 +6,8 @@
 
 - 🎓 B.Tech in Artificial Intelligence @ **VIT Bhopal University** — Expected 2027
 - 🔬 Research Intern @ **FOSSEE, IIT Bombay** — building evaluation frameworks for LLM failure modes
-- 🏗️ Currently building **[Desolate-Era-OS](#)** — a production-grade parking enforcement intelligence system, built for Flipkart GRiDLOCK 2.0 Hackathon
-- 📊 Selected for Round 2 of **Gridlock Hackathon** (HackerEarth) — diagnosed and repaired data leakage in a traffic-forecasting pipeline, taking model performance from ~0.75 to 0.94 R²
+- 🏗️ Currently building **[Desolate-Era-OS](#)** — a production-grade parking enforcement intelligence system,
+- 📊 Selected for Round 2 of **Gridlock 2.0** (HackerEarth) — diagnosed and repaired data leakage in a traffic-forecasting pipeline, taking model performance from ~0.75 to 0.94 R²
 - 🧠 Currently learning: **LoRA / QLoRA** fine-tuning
 - 📝 Co-author, *"Hybrid Vision Transformer + ConvNeXt with CBAM for Glaucoma Classification"* — in preparation
 
@@ -32,7 +32,7 @@
 
 **FOSSEE / IIT Bombay — Open LLM Research** — Designed a custom 6-layer pedagogical taxonomy to classify Python error types and distinguish semantic logic failures from syntax slips. Ran a comparative stress-test across DeepSeek, Qwen, GPT-OSS, Sonnet, and Gemini over 100+ stratified edge cases to quantify resilience against latency, strict JSON enforcement, and high-conflict reasoning.
 
-**Gridlock Hackathon (HackerEarth)** — Full diagnostic-first ML pipeline on geohash-encoded demand-forecasting data: identified target-encoding leakage in a ~75 R² baseline, repaired it using time-based CV splits and weekly lag/day-of-week features to reach 94.18 R². Reported a public data leak in the source dataset to organizers, with reproducible proof, before submitting a compliant solution.
+**Gridlock 2.0 (HackerEarth)** — Full diagnostic-first ML pipeline on geohash-encoded demand-forecasting data: identified target-encoding leakage in a ~75 R² baseline, repaired it using time-based CV splits and weekly lag/day-of-week features to reach 94.18 R². Reported a public data leak in the source dataset to organizers, with reproducible proof, before submitting a compliant solution.
 
 **CodePanda-AI** — LLM-driven Socratic coding tutor using local inference (llama-cpp-python), with prompt-injection defenses to prevent solution leakage. Dockerized and validated with automated tests.
 
@@ -66,8 +66,3 @@
 <br>
 
 <h2>💫 Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=Harshitmishra001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Harshitmishra001&icon=2&color=4)](https://visitcount.itsvg.in)
