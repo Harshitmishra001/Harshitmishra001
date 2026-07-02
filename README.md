@@ -6,7 +6,7 @@
 
 - 🎓 B.Tech in Artificial Intelligence @ **VIT Bhopal University** — Expected 2027
 - 🔬 Research Intern @ **FOSSEE, IIT Bombay** — building evaluation frameworks for LLM failure modes
-- 🏗️ Currently building **[Desolate-Era-OS](#)** — a production-grade parking enforcement intelligence system, built for Flipkart GRiD 6.0 Hackathon
+- 🏗️ Currently building **[Desolate-Era-OS](#)** — a production-grade parking enforcement intelligence system, built for Flipkart GRiDLOCK 2.0 Hackathon
 - 📊 Selected for Round 2 of **Gridlock Hackathon** (HackerEarth) — diagnosed and repaired data leakage in a traffic-forecasting pipeline, taking model performance from ~0.75 to 0.94 R²
 - 🧠 Currently learning: **LoRA / QLoRA** fine-tuning
 - 📝 Co-author, *"Hybrid Vision Transformer + ConvNeXt with CBAM for Glaucoma Classification"* — in preparation
