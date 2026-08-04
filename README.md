@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Harshit 👋</h1>
+
 <p align="center">
   <a href="https://github.com/NVIDIA/NeMo" target="_blank">
     <img src="https://img.shields.io/badge/Contributor-NVIDIA%20NeMo-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NeMo Contributor"/>
   </a>
+  <a href="https://github.com/google/adk-python/issues/6589" target="_blank">
+    <img src="https://img.shields.io/badge/Contributor-Google_ADK-%234285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Contributor"/>
+  </a>
 </p>
+
 <h3 align="center">AI/ML Research & Systems Engineer — I stress-test models to find where they actually break, not just how well they score.</h3>
 
 <br>
