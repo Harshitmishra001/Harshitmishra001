@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&repeat=false&width=350&height=45&lines=Harshit+Mishra" alt="Harshit Mishra" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Harshit+Mishra" alt="Harshit Mishra" />
 
 <br/>
 
-<sub>VIT Bhopal '27 (CGPA: 8.97) · AI/ML Systems & Open Source · IIT Bombay Intern · Contributor @ Google & NVIDIA</sub>
+<b>VIT Bhopal '27 (CGPA: 8.97)</b> · <i>AI/ML Systems & Open Source</i> · <b>IIT Bombay Intern</b> · <i>Contributor @ Google & NVIDIA</i>
 
 <br/><br/>
 
@@ -32,12 +32,12 @@
 
 <div align="center">
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 | Domain | Stack & Tools |
 | :--- | :--- |
 | **Languages & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> |
-| **AI, Fine-Tuning & Eval** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> |
+| **AI, Fine-Tuning & Eval** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logo=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> |
 | **Models & Local Inference** | <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-343541?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/llama.cpp-4D4D4D?style=flat-square&logoColor=white" /> |
 | **Web & Backend Systems** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Mappls_API-107C41?style=flat-square&logoColor=white" /> |
 | **DevOps, Cloud & Infra** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-### 📜 Certifications
+## 📜 Certifications
 
 <p align="center">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=601E5A4E049769D62FD61C54084BBE2684DAB5EB8131D3FBC6B7AB1402FD4F98" target="_blank">
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-### 🌐 Upstream Open Source Contributions
+## 🌐 Upstream Open Source Contributions
 
 | Repository | Issue & Problem Diagnosed | Merged Fix |
 | :--- | :--- | :---: |
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-### 🛠️ Featured Projects & Research
+## 🛠️ Featured Projects & Research
 
 | Project | What it does | Focus / Recognition |
 | :--- | :--- | :---: |
@@ -131,6 +131,6 @@
 
 <div align="center">
 
-<sub>"I stress-test models to find where they actually break, not just how well they score."</sub>
+<i>"I stress-test models to find where they actually break, not just how well they score."</i>
 
 </div>
