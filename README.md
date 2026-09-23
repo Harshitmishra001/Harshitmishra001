@@ -1,77 +1,163 @@
-<h1 align="center">Hi, I'm Harshit 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/NVIDIA/NeMo" target="_blank">
-    <img src="https://img.shields.io/badge/Contributor-NVIDIA%20NeMo-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NeMo Contributor"/>
-  </a>
-  <a href="https://github.com/google/adk-python/issues/6589" target="_blank">
-    <img src="https://img.shields.io/badge/Contributor-Google_ADK-%234285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Contributor"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&repeat=false&width=350&height=45&lines=Harshit+Mishra" alt="Harshit Mishra" />
+
+<br/>
+
+<sub>VIT Bhopal '27 (CGPA: 8.97) · AI/ML Systems & Open Source · IIT Bombay Intern · Contributor @ Google & NVIDIA</sub>
+
+<br/><br/>
+
+<a href="https://github.com/google/adk-python" target="_blank"><img src="https://img.shields.io/badge/Google-ADK_Contributor-C41E3A?style=flat-square&logo=google&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/NVIDIA/NeMo" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-NeMo_Contributor-C41E3A?style=flat-square&logo=nvidia&logoColor=white" /></a>&nbsp;
+<a href="https://huggingface.co/HeavenlyDem0n/lawup-classifier-smollm3-3b" target="_blank"><img src="https://img.shields.io/badge/🤗_Model-lawup--classifier-FFD21E?style=flat-square&logoColor=black" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/harshit-mishra-98329128a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-C41E3A?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:mishra.harshit.1308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Daily**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+
+**Research & ML**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLI%20%26%20Eval-5856D6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+**Models & Testing**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LM_Studio-343541?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" />
+
+**Infra & Cloud**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+</div>
+
+<details>
+<summary>&nbsp;<b>expanded toolkit & certifications</b>&nbsp;—&nbsp;explore more</summary>
+<br/>
+
+<p>
+<b>Certifications:</b><br/>
+<img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional_(2025)-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
-<h3 align="center">AI/ML Research & Systems Engineer — I stress-test models to find where they actually break, not just how well they score.</h3>
-
-<br>
-
-- 🎓 B.Tech in Artificial Intelligence @ **VIT Bhopal University** — Expected 2027
-- 🔬 Research Intern @ **FOSSEE, IIT Bombay** — building evaluation frameworks for LLM failure modes
-- 🏗️ Currently building **[Desolate-Era-OS](#)** — a production-grade parking enforcement intelligence system,
-- 📊 Selected for Round 2 of **Gridlock 2.0** (HackerEarth) — diagnosed and repaired data leakage in a traffic-forecasting pipeline, taking model performance from ~0.75 to 0.94 R²
-- 🧠 Currently learning: **LoRA / QLoRA** fine-tuning
-- 📝 Co-author, *"Hybrid Vision Transformer + ConvNeXt with CBAM for Glaucoma Classification"* — in preparation
-
-<br>
-
-<h2>📫 Connect</h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/harshit-mishra-98329128a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mishra.harshit.1308@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+<b>Frameworks, Libraries & Tools:</b><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/llama.cpp-4D4D4D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Mappls_API-107C41?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
-<br>
+</details>
 
-<h2>🏗️ What I've been building</h2>
+<br/>
 
-**Desolate-Era-OS** — Parking enforcement intelligence system for Flipkart GRiD 6.0 (Theme: Poor Visibility on Parking-Induced Congestion). React (Vite) + Tailwind frontend, FastAPI backend, ILP-based dispatch engine with multi-factor gravity routing, digital twin simulator, and Mappls API integration with offline caching and circuit-breaker fallback. Deployed on Vercel + Hugging Face Spaces.
+<div align="center">
 
-**FOSSEE / IIT Bombay — Open LLM Research** — Designed a custom 6-layer pedagogical taxonomy to classify Python error types and distinguish semantic logic failures from syntax slips. Ran a comparative stress-test across DeepSeek, Qwen, GPT-OSS, Sonnet, and Gemini over 100+ stratified edge cases to quantify resilience against latency, strict JSON enforcement, and high-conflict reasoning.
+### 🌐 Upstream Open Source Contributions
 
-**Gridlock 2.0 (HackerEarth)** — Full diagnostic-first ML pipeline on geohash-encoded demand-forecasting data: identified target-encoding leakage in a ~75 R² baseline, repaired it using time-based CV splits and weekly lag/day-of-week features to reach 94.18 R². Reported a public data leak in the source dataset to organizers, with reproducible proof, before submitting a compliant solution.
+| Repository | Issue & Problem Diagnosed | Merged Fix |
+| :--- | :--- | :---: |
+| [`google/adk-python`](https://github.com/google/adk-python) | **Parallel Tool Execution & Telemetry Bug**: The core connection layer assumed function responses always sit at `parts[0]`. In parallel tool execution, this silently dropped subsequent tool results, caused telemetry span mismatches, and triggered infinite retry loops. Implemented loop-matching over the full payload array to route responses by tool name. | [**PR #6604**](https://github.com/google/adk-python/pull/6604)<br/><sub>[Issue #6603](https://github.com/google/adk-python/issues/6603)</sub> |
+| [`google/adk-python`](https://github.com/google/adk-python) | **Live API Multimodal Streaming & Validation**: Hardcoded `parts[0]` inspection allowed mixed-content blocks to bypass security validation gates, and caused multiplexed streams (mid-chunk thought-to-text transitions) to drop data. Decoupled validation and state machine with a safe multi-part stream iterator. | [**PR #6617**](https://github.com/google/adk-python/pull/6617)<br/><sub>[Issue #6616](https://github.com/google/adk-python/issues/6616)</sub> |
+| [`google/adk-python`](https://github.com/google/adk-python) | **OCI GenAI Parallel Tool Integration**: `OCIGenAILlm` only unpacked `tool_results[0]`, silently discarding all secondary parallel responses and triggering 400 Bad Requests or hallucinations on OCI models. Refactored `_content_to_oci_message` to process and flatten the full `ToolMessage` array. | [**PR #6595**](https://github.com/google/adk-python/pull/6595)<br/><sub>[Issue #6589](https://github.com/google/adk-python/issues/6589)</sub> |
+| [`NVIDIA-NeMo/labs-OO-Agents`](https://github.com/NVIDIA-NeMo/labs-OO-Agents) | **Windows Compatibility & SQLite Locking**: Resolved crash-on-import on Windows caused by POSIX-only calls (`fcntl`, `resource`, unsupported signal constants). Conditioned process signals, added `ImportError` guards, and validated with simulated Windows regression tests (6,290+ tests pass). | [**PR #98**](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/98) |
 
-**CodePanda-AI** — LLM-driven Socratic coding tutor using local inference (llama-cpp-python), with prompt-injection defenses to prevent solution leakage. Dockerized and validated with automated tests.
+</div>
 
-**GPT-2 from Scratch** — Implemented self-attention and positional encodings from first principles in PyTorch; trained on 50k+ lines to a test perplexity of 25.4, deployed via a Flask inference endpoint.
+<br/>
 
-<br>
+<div align="center">
 
-<h2>🚀 Tech Stack</h2>
+### 🛠️ Featured Projects & Research
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| Project | What it does | Focus / Recognition |
+| :--- | :--- | :---: |
+| [🤗 **LawUP Classifier**](https://huggingface.co/HeavenlyDem0n/lawup-classifier-smollm3-3b) | Fine-tuned **SmolLM3-3B** using **QLoRA** on 3,420 CUAD clauses across 500+ SEC contracts for legal clause simplification. Engineered a bidirectional NLI verifier to flag hallucinations & omissions across adversarial benchmarks. | [**HF Model**](https://huggingface.co/HeavenlyDem0n/lawup-classifier-smollm3-3b)<br/><sub>`QLoRA / PEFT / NLI`</sub> |
+| [🤖 **Multi-Agent Dispatch**](https://github.com/Harshitmishra001) | 5-agent **LangGraph** state machine (Ingestion, Verification, Matching, Synthesis, Evaluation) with local LLM inference via LM Studio. Built embedding duplicate filter (80% recall) and a self-correcting Evaluator with bounded retry loops. | [**GitHub**](https://github.com/Harshitmishra001)<br/><sub>`LangGraph / Multi-Agent`</sub> |
+| [🚦 **Desolate-Era-OS**](https://github.com/Harshitmishra001) | Parking enforcement intelligence platform for Flipkart GRiD 6.0. ILP-based dispatch engine, multi-factor gravity routing, digital twin simulator, and Mappls API integration with offline caching & circuit-breaker fallback. | [**Flipkart GRiD 6.0**](https://github.com/Harshitmishra001)<br/><sub>`FastAPI / React / ILP`</sub> |
+| [🔬 **FOSSEE / IIT Bombay**](https://github.com/Harshitmishra001) | Designed a 6-layer pedagogical taxonomy classifying student Python error types. Evaluated 6 frontier LLMs across 100+ stratified edge cases, achieving 15% disagreement rate vs. 51% baseline with human annotations. | [**Research**](https://github.com/Harshitmishra001)<br/><sub>`IIT Bombay Intern`</sub> |
 
-<br>
+</div>
 
-<h2>📊 GitHub Stats</h2>
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Harshitmishra001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harshitmishra001&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitmishra001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Harshitmishra001&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Harshitmishra001&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harshitmishra001&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshitmishra001&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshitmishra001&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshitmishra001&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+</picture>
 
-<h2>💫 Trophies</h2>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Harshitmishra001&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Harshitmishra001&hide_border=true&background=ffffff&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=Harshitmishra001&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshitmishra001/Harshitmishra001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshitmishra001/Harshitmishra001/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Harshitmishra001/Harshitmishra001/output/github-snake.svg" alt="snake" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>"I stress-test models to find where they actually break, not just how well they score."</sub>
+
+</div>
+
