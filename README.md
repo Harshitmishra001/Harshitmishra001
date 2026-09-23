@@ -36,40 +36,26 @@
 
 | Domain | Stack & Tools |
 | :--- | :--- |
-| **Languages & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> |
-| **AI, Fine-Tuning & Eval** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> |
-| **Models & Local Inference** | <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-343541?style=flat-square&logoColor=white" /> |
-| **Cloud & Deployment** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
+| **Languages & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> |
+| **AI, Fine-Tuning & Eval** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> |
+| **Models & Local Inference** | <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-343541?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/llama.cpp-4D4D4D?style=flat-square&logoColor=white" /> |
+| **Web & Backend Systems** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Mappls_API-107C41?style=flat-square&logoColor=white" /> |
+| **DevOps, Cloud & Infra** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
 
 </div>
 
-<details>
-<summary>&nbsp;<b>expanded toolkit & certifications</b>&nbsp;—&nbsp;explore more</summary>
 <br/>
 
-<p>
-<b>Certifications:</b><br/>
-<img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional_(2025)-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<div align="center">
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional_(2025)-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Generative AI Professional" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Technical Essentials" />
 </p>
 
-<p>
-<b>Frameworks, Libraries & Tools:</b><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/llama.cpp-4D4D4D?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Mappls_API-107C41?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-</p>
-
-</details>
+</div>
 
 <br/>
 
