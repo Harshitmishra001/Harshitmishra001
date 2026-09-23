@@ -8,11 +8,23 @@
 
 <br/><br/>
 
-<a href="https://github.com/google/adk-python" target="_blank"><img src="https://img.shields.io/badge/Google-ADK_Contributor-C41E3A?style=flat-square&logo=google&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/NVIDIA/NeMo" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-NeMo_Contributor-C41E3A?style=flat-square&logo=nvidia&logoColor=white" /></a>&nbsp;
-<a href="https://huggingface.co/HeavenlyDem0n/lawup-classifier-smollm3-3b" target="_blank"><img src="https://img.shields.io/badge/🤗_Model-lawup--classifier-FFD21E?style=flat-square&logoColor=black" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/harshit-mishra-98329128a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-C41E3A?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:mishra.harshit.1308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/google/adk-python" target="_blank">
+    <img src="https://img.shields.io/badge/Google-ADK_Contributor-C41E3A?style=flat-square&logo=google&logoColor=white" alt="Google ADK Contributor" />
+  </a>
+  <a href="https://github.com/NVIDIA/NeMo" target="_blank">
+    <img src="https://img.shields.io/badge/NVIDIA-NeMo_Contributor-C41E3A?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NeMo Contributor" />
+  </a>
+  <a href="https://huggingface.co/HeavenlyDem0n/lawup-classifier-smollm3-3b" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-LawUP_Model-C41E3A?style=flat-square&logo=huggingface&logoColor=white" alt="LawUP Model" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshit-mishra-98329128a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit_Mishra-C41E3A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mishra.harshit.1308@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -20,40 +32,14 @@
 
 <div align="center">
 
-**Daily**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+### 🛠️ Skills & Technologies
 
-**Research & ML**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLI%20%26%20Eval-5856D6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-
-**Models & Testing**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LM_Studio-343541?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" />
-
-**Infra & Cloud**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+| Domain | Stack & Tools |
+| :--- | :--- |
+| **Languages & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> |
+| **AI, Fine-Tuning & Eval** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-C41E3A?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> |
+| **Models & Local Inference** | <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LM_Studio-343541?style=flat-square&logoColor=white" /> |
+| **Cloud & Deployment** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
 
 </div>
 
@@ -160,4 +146,3 @@
 <sub>"I stress-test models to find where they actually break, not just how well they score."</sub>
 
 </div>
-
