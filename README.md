@@ -51,7 +51,9 @@
 ### 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional_(2025)-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Generative AI Professional" />&nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=601E5A4E049769D62FD61C54084BBE2684DAB5EB8131D3FBC6B7AB1402FD4F98" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional_(2025)-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Generative AI Professional" />
+  </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Technical Essentials" />
 </p>
 
