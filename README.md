@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Harshit+Mishra" alt="Harshit Mishra" />
 
 <br/>
